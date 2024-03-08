@@ -2,6 +2,6 @@ body {background-image: url:(viridianforestnight);}
 h1 {color: #89ed79; text-align:center;}
 pre {color: #89ed79; display: block; font-family: system; white-space: pre; margin: 1em 0; text-align:center;}
 details {display: inline}
-button {text-align:center; margin: 10px 5px; color: #00ffff; background-color: #596e21; border: solid #f1cc36 2.5px; cursor: pointer; box-shadow: 0 3px #f1cc36}
+button {text-align:center; margin: 10px 5px; color: #89ed79; background-color: #9025a7; border: solid #520164 2.5px; cursor: pointer; box-shadow: 0 3px #f1cc36}
 button:active {box-shadow: 0 1px #f1cc36; transform: translateY(2px);}
 a {color: #89ed79; display: inline; font-family: arial; white-space: pre; margin: 1em 0; text-align:center;}
